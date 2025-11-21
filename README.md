@@ -24,10 +24,7 @@ This project simulates the kinematic behavior of a landing gear mechanism, model
 2.  Open `Landing_Gear_Mechanism.mlx` in MATLAB (Requires Symbolic Math Toolbox).
 3.  Run the script to solve the kinematics and generate the animation window.
 
-## 📚 Reference
-This exercise is based on **Chapter 4** of the textbook:
-* *Design of Machinery: An Introduction to the Synthesis and Analysis of Mechanisms and Machines* by **Robert L. Norton**.
-
 ---
-**Author:** [Your Name]
-**Course:** [Your Course Name]
+**Author:** Name Ronnakorn Koysavat          ID 6630280021
+            Name Ratthanan Limkietcherdchoo  ID 6630288121
+**Course:** 2103322 Mechanics of Machinery, Year 2025
