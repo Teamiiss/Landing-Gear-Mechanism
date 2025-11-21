@@ -25,6 +25,5 @@ This project simulates the kinematic behavior of a landing gear mechanism, model
 3.  Run the script to solve the kinematics and generate the animation window.
 
 ---
-**Author:** Name Ronnakorn Koysavat          ID 6630280021
-            Name Ratthanan Limkietcherdchoo  ID 6630288121
+Name Ronnakorn Koysavat          ID 6630280021<br>            Name Ratthanan Limkietcherdchoo  ID 6630288121<br>
 **Course:** 2103322 Mechanics of Machinery, Year 2025
